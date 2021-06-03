@@ -6,6 +6,8 @@
 <!-- <Suspend></Suspend> -->
 <Student></Student>
 <!-- <DropOut></DropOut> -->
+
+
 </template>
 
 <script setup>
